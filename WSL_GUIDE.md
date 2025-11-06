@@ -104,9 +104,10 @@ netgen
 
 ---
 
-## 9️⃣ Resources
+## 8️⃣ Resources
 
 * [Magic Layout Editor](https://opencircuitdesign.com/magic/)
 * [Xschem](https://github.com/StefanSchippers/xschem)
 * [Ngspice](https://git.code.sf.net/p/ngspice/ngspice)
 * [Open_PDKs / SKY130](https://github.com/RTimothyEdwards/open_pdks)
+
